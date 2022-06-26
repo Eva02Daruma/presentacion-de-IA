@@ -11,7 +11,7 @@ Proyecto Final de Inteligencia Artificial , donde se debe realizar una investiga
 Analizar los datos de manera que puedas predecir un tiulo recomendado a partir de un genero que te gusta o un titulo que ya viste.  
 
 <u>**Modelo que se piensa implementar**</u>     
- Arboles de Decision   
+ PCA Y BERT
     
 <u>**Objetivo** </u> :   
 Predecir y Recomendar al usuario titulos candidatos del gusto del usuario segun titulos que ya se ha visto.
